@@ -1,0 +1,2 @@
+This is a placeholder file to ensure the images directory is included in git.
+Remember to add actual image assets here for your application. 

@@ -1,0 +1,2 @@
+This is a placeholder file to ensure the icons directory is included in git.
+Remember to add actual icon assets here for your application. 

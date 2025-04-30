@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520550631571",
+    "project_id": "samrtfab-c80fc",
+    "storage_bucket": "samrtfab-c80fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520550631571:android:ebba72f76d0dd6022ae566",
+        "android_client_info": {
+          "package_name": "smart.fab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDytP26jUnjdukGibBceG0KR385XUcQGQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
